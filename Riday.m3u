@@ -1,0 +1,20 @@
+EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", RIDAY T SPORTS 
+https://live-cdn.tsports.com/live-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Rk Bangla", RIDAY SOMOY TV
+https://tv5.hoichoi24.com/1111/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Rk Bangla", DBC NEWS
+https://tv5.hoichoi24.com/1104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/480px-Ekattor_TV_logo.svg.png" group-title="Rk Bangla", Ekattor Tv
+https://tv5.hoichoi24.com/1136/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/385px-Banglavision.svg.png" group-title="Rk Bangla", Bangla Vision
+https://tv5.hoichoi24.com/1125/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Rk Bangla", Maasranga Tv
+https://tv5.hoichoi24.com/1122/index.m3u8
+
